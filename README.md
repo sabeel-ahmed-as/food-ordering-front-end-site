@@ -1,2 +1,2 @@
-# food-ordering-front-end-site
-i've created this as my final year project i did'nt had much time to go through so i spent  few hours to create this with some youtube helps and slef stufy too
+# Fudo_27-07-24
+Learn how to build a stunning and fully responsive restaurant website from scratch using HTML, CSS, and JavaScript! 
